@@ -14,7 +14,7 @@
     "@ai-sdk/openai": "^0.0.37",
     "@inquirer/prompts": "^5.3.6",
     "@topcli/spinner": "^2.1.2",
-    "ai": "3.2.27",
+    "ai": "5.0.52",
     "chalk": "^5.3.0",
     "cli-list-select": "^0.0.7",
     "clipboardy": "^4.0.0",
